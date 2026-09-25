@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"C:/Users/HP/Desktop/ISI_Suptech/Mes Projet personnel/sponsorbox/sponsorbox-frontend/src\" -type f | sort)"
+    ]
+  }
+}
